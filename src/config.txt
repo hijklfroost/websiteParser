@@ -1,0 +1,11 @@
+"internet_reconnection": 0
+"internet_reconnection_attempts": 10
+"internet_connection_timeout": 5
+"request_delay": 5
+"logging": 1
+"ya_disk_token": "empty"
+"ya_disk_save_folder": "empty"
+"sender_mail_address": "empty"
+"sender_mail_password": "empty"
+"recipient_mail_address": "empty"
+"save_file_after_parsing": 1
